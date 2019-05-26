@@ -6,3 +6,7 @@ Here we suggest Machine learning and statistical analysis to predict the risk th
 Predicting early surrenders can help businesses better customise their policies to better suit their present policyholders as well as make suitable business decisions when providing an insurance policy to a new policyholder by analysing their data and and the policy features. 
 Identifying important features can help the Insurer to focus on building their policies more suitable for the policyholders and in term, the company. 
 
+Dataset:
+We use the Prudential Life Insurance Assessment dataset available on Kaggle:
+https://www.kaggle.com/c/prudential-life-insurance-assessment/data
+
